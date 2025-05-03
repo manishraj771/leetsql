@@ -1,2 +1,1 @@
-# leetsql
-sql practice
+
