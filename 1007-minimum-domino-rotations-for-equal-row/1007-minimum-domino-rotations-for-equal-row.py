@@ -1,5 +1,5 @@
 class Solution:
-    def minDominoRotations(self, tops:, bottoms):
+    def minDominoRotations(self, tops, bottoms):
         
         for x in [tops[0] , bottoms[0]]:  # Try both first elements as candidates
             top_swap , bottom_swap = 0,0
