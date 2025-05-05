@@ -1,5 +1,5 @@
 class Solution:
-    def numTilings(self, n: int) -> int:
+    def numTilings(self, n):
         mod = 10**9 + 7
         if n == 1:
             return 1
